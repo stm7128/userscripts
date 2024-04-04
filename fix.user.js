@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         fixrocketnewsimgload
-// @namespace    https://github.com/star114514-mit/fixrocketnewsimgload/
+// @namespace    https://github.com/stm7128/fixrocketnewsimgload
 // @version      1.0
-// @description  Rocketnews24の画像においてしばらく灰色の物が表示される問題の改善
-// @author       stm_int
+// @description  Rocketnews24の記事の画像において特に遅いネットワークでしばらく灰色の物が表示されることがある問題の改善
+// @author       stm7128
 // @match        *://*.rocketnews24.com/*
 // @grant        none
 // ==/UserScript==
