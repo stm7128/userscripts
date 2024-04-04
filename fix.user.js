@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Replace src with data-sco-src
-// @namespace    keiaho
+// @name         fixrocketnewsimgload
+// @namespace    https://github.com/star114514-mit/fixrocketnewsimgload/
 // @version      1.0
-// @description  Replaces src attribute with data-sco-src attribute for images
-// @author       Your Name
+// @description  Rocketnews24の画像においてしばらく灰色の物が表示される問題の改善
+// @author       stm_int
 // @match        *://*.rocketnews24.com/*
 // @grant        none
 // ==/UserScript==
