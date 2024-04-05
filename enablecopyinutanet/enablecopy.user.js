@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  uta-net.comにおいて歌詞をコピーできるようにする
 // @author       stm7128
-// @match        *://uta-net.com/*
+// @match        *://*.uta-net.com/*
 // @grant        none
 // ==/UserScript==
 
